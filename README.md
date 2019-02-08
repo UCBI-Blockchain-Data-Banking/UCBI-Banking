@@ -1,6 +1,6 @@
 # UCBI-Banking
 
-'UCBI Banking'  token contract
+UCBI Banking | token contract
 
 - Symbol      : UCBI
 - Name        : UCBI Banking
