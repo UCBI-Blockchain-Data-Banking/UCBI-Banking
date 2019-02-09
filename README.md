@@ -8,7 +8,7 @@ UCBI Banking ERC 20 | token contract
 - Name        : UCBI Banking
 - Total supply: 12 000 000
 - Decimals    : 8
-- (c) by Team @ UCBI Banking 2019.
+- (c) by Team @ UCBI Limited 2019.
 
 
 ### Why choose UCBI?
