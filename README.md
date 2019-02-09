@@ -24,7 +24,7 @@ UCBI Banking ERC 20 | token contract
 
 
 
-### Documentation link
+### Documentation Link
 
 
 - link : www.ucbibanking.com
@@ -44,6 +44,10 @@ UCBI Banking ERC 20 | token contract
 ### White Paper
 
 Lien a integrer pour telecharger le white paper pdf
+
+
+
+### Social Network
 
 
 
