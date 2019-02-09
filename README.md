@@ -1,6 +1,6 @@
-# UCBI-Banking
+# UCBI Banking
 
-UCBI Banking | token contract
+UCBI Banking ERC 20 | token contract
 
 - Symbol      : UCBI
 - Name        : UCBI Banking
@@ -20,4 +20,4 @@ UCBI Banking | token contract
 ### Authors / Maintainers
 ---
 
-- Wadii
+- UCBI Limited
