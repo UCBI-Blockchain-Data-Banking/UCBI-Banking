@@ -22,10 +22,10 @@ UCBI Banking ERC 20 | token contract
 - Worldwide branch available
 - It is an exchange Token that is available internationally.
 
----
+
 
 ### Documentation link
----
+
 
 - link : www.ucbibanking.com
 - link : https://etherscan.io/token/0x2adba23cf1252de095aced801e758b369ec10426
