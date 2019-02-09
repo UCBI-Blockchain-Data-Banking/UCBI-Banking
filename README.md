@@ -41,6 +41,8 @@ UCBI Banking ERC 20 | token contract
 - link : https://tokenjar.io/UCBI
 
 
+### White Paper
+
 
 
 
