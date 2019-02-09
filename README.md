@@ -11,10 +11,18 @@ UCBI Banking ERC 20 | token contract
 - (c) by Team @ UCBI Banking 2019.
 
 
-### FAQ
+### UCBI Banking Token
+
+The goal of UCBI is to attract the world of finance, brokerage and business schools, to link the world of education and finance without the need for intermediaries. The idea is to leave business schools and continue to the financial world. It will allow brokers, brokers or traders to exchange securities for assets, assets or services.
+
+ Transfer of securities (international)
+ Project financing
+ Opening to the world market
+ International Broker Network
+
 ---
 
-### Documentation
+### Documentation link
 ---
 
 - link : www.ucbibanking.com
