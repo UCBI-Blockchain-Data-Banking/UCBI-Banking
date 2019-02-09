@@ -14,13 +14,13 @@ UCBI Banking ERC 20 | token contract
 ### Why choose UCBI?
 
 
- Number of Token Units Limited
- Exchange available (Customers, Broker)
- Customer advice available at all times.
- A favorable customer relationship (availability of meeting with the customer).
- A communication model and a developed sales system.
- Worldwide branch available
- It is an exchange Token that is available internationally.
+- Number of Token Units Limited
+- Exchange available (Customers, Broker)
+- Customer advice available at all times.
+- A favorable customer relationship (availability of meeting with the customer).
+- A communication model and a developed sales system.
+- Worldwide branch available
+- It is an exchange Token that is available internationally.
 
 ---
 
