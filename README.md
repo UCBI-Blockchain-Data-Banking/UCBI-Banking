@@ -50,6 +50,9 @@ Lien a integrer pour telecharger le white paper pdf
 
 ### Social Network
 
+- link :  https://www.instagram.com/ucbi_banking/
+- link :  https://www.pinterest.co.uk/ucbi_banking/
+- link :  https://www.meetup.com/fr-FR/UCBI-Banking-Token-ICO/
 
 
 ### Contact our company
