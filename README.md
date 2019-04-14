@@ -44,8 +44,7 @@ UCBI Banking ERC 20 | token contract
 
 ### White Paper
 
-Lien a integrer pour telecharger le white paper pdf
-
+https://ucbibanking.com/UCBI_Whitepaper.pdf
 
 
 ### Social Network
@@ -66,4 +65,4 @@ Lien a integrer pour telecharger le white paper pdf
 ### Authors / Maintainers
 ---
 
-- UCBI Limited
+- UCBI Maroc
