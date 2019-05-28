@@ -31,6 +31,7 @@ UCBI Banking ERC 20 | token contract
 - link : https://etherscan.io/token/0x2adba23cf1252de095aced801e758b369ec10426
 - link : https://ethplorer.io/address/0x2adba23cf1252de095aced801e758b369ec10426
 - link : https://enjinx.io/eth/token/0x2adba23cf1252de095aced801e758b369ec10426
+- link : https://dex.watch/pair/ETH/2adba23cf1252de095aced801e758b369ec10426
 
 
 ### Market Link
