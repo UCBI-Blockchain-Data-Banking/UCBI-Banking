@@ -8,7 +8,7 @@ UCBI Banking ERC 20 | token contract
 - Name        : UCBI Banking
 - Total supply: 12 000 000
 - Decimals    : 8
-- (c) by Team @ UCBI Limited 2019.
+- (c) by Team @ UCBI Maroc Limited 2019.
 
 
 ### Why choose UCBI?
@@ -28,6 +28,7 @@ UCBI Banking ERC 20 | token contract
 
 
 - link : www.ucbibanking.com
+- link : www.ucbibanking.ma
 - link : https://etherscan.io/token/0x2adba23cf1252de095aced801e758b369ec10426
 - link : https://ethplorer.io/address/0x2adba23cf1252de095aced801e758b369ec10426
 - link : https://enjinx.io/eth/token/0x2adba23cf1252de095aced801e758b369ec10426
@@ -53,6 +54,7 @@ https://ucbibanking.com/UCBI_Whitepaper.pdf
 - link :  https://www.instagram.com/ucbi_banking/
 - link :  https://www.pinterest.co.uk/ucbi_banking/
 - link :  https://www.meetup.com/fr-FR/UCBI-Banking-Token-ICO/
+- link :  https://twitter.com/UCBI_Banking
 
 
 ### Contact our company
